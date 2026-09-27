@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,14,18,20,24&text=ANKIT%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Computer%20Science%20%7C%20Java%20%7C%20DSA%20%7C%20AI%2FNLP&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,14,18,20,24&text=ANKIT%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20DSA%20%7C%20AI%2FNLP&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Developer+%7C+DSA+Learner;Building+Practical+Software+Solutions;Exploring+AI%2FNLP+%26+Product+Engineering;CSE+Student+%7C+Hackathon+Builder;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=900&lines=Java+Developer+%7C+DSA+Learner;Building+Practical+Software+Solutions;Exploring+AI%2FNLP+%26+Product+Engineering;CSE+Student+%7C+Hackathon+Builder;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CSE-2nd%20Year-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSE-2nd%20Year-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-Developer-8B5CF6?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Learning-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-In%20Progress-6366F1?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/India-Student-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
+<a href="https://github.com/ankitkrwrs1-commits"><img src="https://img.shields.io/badge/⌂%20Portfolio-GitHub-111827?style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/ankit-kumar-815471384/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/ankitkr321/"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/ankitkrwrs1-commits"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -27,37 +27,36 @@
 
 ---
 
-## ⚡ Who Am I?
+<div align="center">
 
-> **A CSE student who enjoys turning ideas into working software.**
+### `BUILD  •  LEARN  •  SOLVE  •  SHIP`
 
-I'm **Ankit Kumar**, a second-year Computer Science & Engineering student at **St. Andrews Institute of Technology and Management**.
+**A Computer Science student focused on building useful software, strengthening problem-solving skills, and exploring AI-driven products.**
 
-I'm currently building my foundation around **Java, Data Structures & Algorithms, databases, web development and practical software engineering**.
+</div>
 
-I enjoy projects where technology is used to solve an actual problem — from database-driven Java applications to AI/NLP concepts for workplace safety.
+---
 
-### 🧩 What I'm Working On
+# ⚡ About Me
 
-```text
-☕ Java & Object-Oriented Programming
-🧠 Data Structures & Algorithms
-🗄️ SQL / MySQL & Database Applications
-🌐 HTML • CSS • JavaScript
-🤖 AI / NLP Concepts
-🔧 Git & GitHub
-🚀 Hackathons & Real-World Projects
-```
+Hi, I'm **Ankit Kumar** — a **2nd-year Computer Science & Engineering student** at **St. Andrews Institute of Technology and Management**.
 
-### 🎯 My Engineering Mindset
+I enjoy building practical applications and learning software engineering from the fundamentals up. My current focus is **Java, Data Structures & Algorithms, SQL/MySQL, web development, Git/GitHub, and AI/NLP concepts**.
 
-```text
-Understand the Problem → Design the Solution → Build the Product
-                         ↓
-                 Test → Improve → Ship
-```
+My strongest project experience so far comes from **Firefly Forge**, my SIH project focused on using AI/NLP concepts for workplace safety intelligence.
 
-### 🟣 Open To
+### 🧠 Engineering Focus
+
+| Focus | What I'm Building |
+|---|---|
+| ☕ **Java** | OOP, Collections, application logic |
+| 🧠 **DSA** | Problem solving, algorithms, coding practice |
+| 🗄️ **Databases** | SQL, MySQL, CRUD applications |
+| 🌐 **Web** | HTML, CSS, JavaScript projects |
+| 🤖 **AI/NLP** | Practical exploration through Firefly Forge |
+| 🔧 **Git/GitHub** | Version control & project development |
+
+### 🎯 Open To
 
 `Software Internships` · `Java Development` · `DSA Collaboration` · `AI/NLP Projects` · `Hackathons` · `Open Source`
 
@@ -67,15 +66,15 @@ Understand the Problem → Design the Solution → Build the Product
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
-### 🗄️ Database & Development
+### Database • Tools • Workflow
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
@@ -83,30 +82,33 @@ Understand the Problem → Design the Solution → Build the Product
 
 <br/>
 
-| Area | Technologies |
-|---|---|
-| **Languages** | Java · C · Python · JavaScript |
-| **Frontend** | HTML · CSS · JavaScript |
-| **Database** | SQL · MySQL |
-| **Programming** | OOP · Collections · DSA |
-| **Tools** | Git · GitHub · VS Code |
-| **Currently Learning** | Advanced Java · DSA · SQL · Web Development · AI/NLP |
+<div align="center">
+
+| `PROGRAMMING` | `WEB` | `DATABASE` | `TOOLS` |
+|:---:|:---:|:---:|:---:|
+| Java | HTML | MySQL | Git |
+| C | CSS | SQL | GitHub |
+| Python | JavaScript | JDBC / DB Concepts | VS Code |
+
+</div>
 
 ---
 
-# 🤖 AI / NLP Exploration
+# 🤖 AI / NLP LAB
 
-My AI journey is currently **project-driven and learning-focused**, with practical exploration through the Firefly Forge SIH project.
+> **Project-driven learning — not just theory.**
 
-| Domain | Level | Practical Focus |
+My current AI/ML exposure is centered around the **Firefly Forge SIH project**, where I am exploring how NLP and intelligent systems can help analyze workplace safety reports.
+
+| Domain | Level | Exploration |
 |---|:---:|---|
-| **NLP** | 🟣 Learning | Text processing & report classification |
-| **AI Classification** | 🟣 Learning | Safety-report analysis concepts |
-| **Explainable AI** | 🟣 Exploring | Making AI outputs understandable |
-| **Knowledge Graphs** | 🟣 Exploring | Connecting safety entities & relationships |
-| **Risk Intelligence** | 🟣 Learning | Prioritizing potentially serious reports |
-| **Computer Vision** | 🟣 Exploring | Vision-AI prototype concept |
-| **Voice AI** | 🟣 Exploring | Voice-based safety reporting |
+| NLP | 🟣 Learning | Text processing & report classification |
+| AI Classification | 🟣 Learning | Safety-report analysis |
+| Explainable AI | 🟣 Exploring | Understanding why a model produces a result |
+| Knowledge Graph | 🟣 Exploring | Connecting safety entities and relationships |
+| Risk Intelligence | 🟣 Learning | Prioritizing potentially serious reports |
+| Computer Vision | 🟣 Exploring | Vision-AI prototype concept |
+| Voice AI | 🟣 Exploring | Voice-based safety reporting |
 
 ---
 
@@ -115,37 +117,63 @@ My AI journey is currently **project-driven and learning-focused**, with practic
 ## 🔥 Firefly Forge
 
 <details>
-<summary><b>🤖 AI/NLP Engine to Detect Serious Injury & Fatality (SIF) Precursors</b></summary>
+<summary><b>AI/NLP Engine to Detect Serious Injury & Fatality (SIF) Precursors</b> — <i>Smart India Hackathon</i></summary>
 
 <br/>
 
-**Firefly Forge** is a Smart India Hackathon project focused on analyzing workplace safety reports such as **Unsafe Act, Unsafe Condition and Near-Miss reports** to identify reports that may contain indicators of Serious Injury & Fatality potential.
+### 🧩 Problem
+
+Workplace safety teams receive large volumes of **Unsafe Act, Unsafe Condition, Near-Miss and Incident reports**. Manual review can make it difficult to identify potentially serious safety signals early.
+
+### 💡 Solution
+
+**Firefly Forge** explores an AI/NLP-based approach to analyze free-text safety reports and identify reports that may contain **Serious Injury & Fatality (SIF) precursor signals**.
+
+### 📊 Project Profile
 
 | Dimension | Details |
 |---|---|
-| 🧠 **Core** | AI / NLP-based safety analysis |
-| 🏭 **Domain** | Industrial Safety / HSSE |
-| 📦 **Scale** | SIH Prototype |
-| ⚡ **Performance Goal** | Faster automated report triage |
-| 🔐 **Security Focus** | Safety-data-aware application design |
-| 💡 **Impact** | Helps prioritize potentially serious safety reports |
-| 🧩 **Project ID** | SIH26165 |
+| 🧠 Core | AI / NLP-based safety analysis |
+| 🏭 Domain | Industrial Safety / HSSE |
+| 🏆 Context | Smart India Hackathon |
+| 📦 Scale | Prototype |
+| ⚡ Goal | Faster automated report triage |
+| 💡 Impact | Prioritize potentially serious safety reports |
+| 🧩 Project ID | SIH26165 |
 
-### Key Engineering Concepts
+### ✨ Key Concepts
 
 `NLP Analysis` · `SIF Detection` · `Risk Prioritization` · `Explainable AI` · `Knowledge Graph` · `Early Warning` · `Voice Reporting` · `Vision-AI` · `Model Versioning`
 
-### Product Flow
+### 🔄 Product Flow
 
 ```text
-Safety Report → Processing → AI/NLP Analysis → Risk & SIF Signals
-                                      ↓
-                           Explainable Result
-                                      ↓
-                            Priority / Warning
+┌──────────────────────┐
+│    Safety Report     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Text / Data Process  │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│    AI / NLP Engine   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Risk + SIF Signals   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Explainable Result   │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│ Priority / Warning   │
+└──────────────────────┘
 ```
 
-<a href="https://github.com/ankitkrwrs1-commits/SIH20165"><img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ankitkrwrs1-commits/SIH20165"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </details>
 
@@ -154,22 +182,26 @@ Safety Report → Processing → AI/NLP Analysis → Risk & SIF Signals
 ## 💼 ECONEXUS
 
 <details>
-<summary><b>🗄️ Java Console-Based Database Application</b></summary>
+<summary><b>Java Console-Based Database Application</b></summary>
 
 <br/>
 
-**ECONEXUS** is a Java console-based application designed to strengthen practical software development, database integration and structured programming.
+**ECONEXUS** is a Java-based console application created to practice structured programming, object-oriented design and database integration.
 
 | Dimension | Details |
 |---|---|
-| ☕ **Core** | Java |
-| 🗄️ **Database** | SQL / MySQL |
-| 🖥️ **Interface** | Console Application |
-| 📦 **Scale** | Student Project |
-| ⚙️ **Focus** | CRUD & application logic |
-| 🧩 **Concepts** | OOP · Database Connectivity · SQL |
+| ☕ Core | Java |
+| 🗄️ Database | SQL / MySQL |
+| 🖥️ Interface | Console |
+| ⚙️ Focus | CRUD + Application Logic |
+| 🧩 Concepts | OOP + Database Connectivity |
+| 📦 Type | Student Project |
 
-<a href="https://github.com/ankitkrwrs1-commits/ECONEXUS"><img src="https://img.shields.io/badge/VIEW%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 🔧 Concepts Practiced
+
+`Java` · `OOP` · `SQL` · `MySQL` · `CRUD` · `Database Connectivity`
+
+<a href="https://github.com/ankitkrwrs1-commits/ECONEXUS"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </details>
 
@@ -178,20 +210,20 @@ Safety Report → Processing → AI/NLP Analysis → Risk & SIF Signals
 ## 🎵 Spotify Clone
 
 <details>
-<summary><b>🎧 Frontend Music Streaming UI</b></summary>
+<summary><b>Frontend Music Streaming Interface</b></summary>
 
 <br/>
 
-A frontend project created to practice modern web fundamentals, layout design and browser-based interaction.
+A frontend project built to strengthen UI layout, styling and JavaScript fundamentals.
 
 | Dimension | Details |
 |---|---|
-| 🌐 **Stack** | HTML · CSS · JavaScript |
-| 📦 **Type** | Frontend Project |
-| 🎯 **Focus** | UI · Layout · Interaction |
-| ⚡ **Performance** | Lightweight browser-based application |
+| 🌐 Stack | HTML · CSS · JavaScript |
+| 🎯 Focus | UI + Layout + Interaction |
+| 📦 Type | Frontend Project |
+| ⚡ Architecture | Browser-based |
 
-<a href="https://github.com/ankitkrwrs1-commits/Spotify-clone"><img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ankitkrwrs1-commits/Spotify-clone"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </details>
 
@@ -200,20 +232,20 @@ A frontend project created to practice modern web fundamentals, layout design an
 ## 🎮 Simon Game
 
 <details>
-<summary><b>🧠 Interactive Memory Game</b></summary>
+<summary><b>Interactive Memory Game</b></summary>
 
 <br/>
 
-A browser-based memory game focused on JavaScript logic, event handling and user interaction.
+A browser-based game focused on JavaScript logic, event handling and interactive user experience.
 
 | Dimension | Details |
 |---|---|
-| 🌐 **Stack** | HTML · CSS · JavaScript |
-| 🎮 **Type** | Interactive Web Project |
-| 🧠 **Focus** | Logic · Events · UI Interaction |
-| ⚡ **Performance** | Lightweight client-side application |
+| 🌐 Stack | HTML · CSS · JavaScript |
+| 🧠 Focus | Logic + Events |
+| 🎮 Type | Interactive Web Project |
+| ⚡ Architecture | Client-side |
 
-<a href="https://github.com/ankitkrwrs1-commits/Simon-Game"><img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/ankitkrwrs1-commits/Simon-Game"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </details>
 
@@ -226,16 +258,16 @@ A browser-based memory game focused on JavaScript logic, event handling and user
 
 `2025 — Present`
 
-- Pursuing Computer Science & Engineering
-- Developing Java and database-based applications
+- Pursuing **Computer Science & Engineering**
+- Building Java and database-based applications
 - Practicing Data Structures & Algorithms
-- Building frontend projects
-- Exploring AI/NLP through the Firefly Forge SIH project
-- Participating in project-based learning and hackathon development
+- Developing frontend projects
+- Exploring AI/NLP through Firefly Forge
+- Participating in hackathon and project-based development
 
 ---
 
-# 🧠 DSA Journey
+# 🧠 DSA JOURNEY
 
 <div align="center">
 
@@ -243,19 +275,23 @@ A browser-based memory game focused on JavaScript logic, event handling and user
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/ankitkr321/"><img src="https://img.shields.io/badge/LeetCode-ankitkr321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ankitkr321/"><img src="https://img.shields.io/badge/LEETCODE-ankitkr321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+<br/><br/>
+
+**Learning by solving. Improving by building.**
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkrwrs1-commits&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ankit's%20GitHub%20Overview" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkrwrs1-commits&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ankit%27s%20GitHub%20Overview" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrwrs1-commits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrwrs1-commits&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
@@ -265,22 +301,26 @@ A browser-based memory game focused on JavaScript logic, event handling and user
 
 ---
 
-# 📈 Contribution Activity
+# 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkrwrs1-commits&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkrwrs1-commits&theme=tokyonight" width="96%"/>
+
 </div>
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 ROADMAP
 
 <div align="center">
 
-| Goal | Status |
-|---|:---:|
+| 🚀 Goal | Status |
+|:---|:---:|
 | ☕ Strengthen Java | 🔄 |
 | 🧠 Master DSA | 🔄 |
 | 🗄️ Improve SQL / MySQL | 🔄 |
@@ -294,20 +334,20 @@ A browser-based memory game focused on JavaScript logic, event handling and user
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 CONNECT
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ankit-kumar-815471384/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/ankitkr321/"><img src="https://img.shields.io/badge/LeetCode-ankitkr321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://github.com/ankitkrwrs1-commits"><img src="https://img.shields.io/badge/GitHub-ankitkrwrs1--commits-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-815471384/"><img src="https://img.shields.io/badge/LINKEDIN-Ankit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ankitkr321/"><img src="https://img.shields.io/badge/LEETCODE-ankitkr321-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/ankitkrwrs1-commits"><img src="https://img.shields.io/badge/GITHUB-ankitkrwrs1--commits-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-### `BUILD • LEARN • SOLVE • SHIP`
+### `CODE  •  LEARN  •  BUILD  •  REPEAT`
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20,24" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=12,14,18,20,24" width="100%"/>
 
 </div>
