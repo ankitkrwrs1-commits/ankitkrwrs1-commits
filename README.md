@@ -1,82 +1,97 @@
+<!-- Capsule Render Cyberpunk Wave Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:bd93f9,100:8be9fd&height=220&section=header&text=Ankit%20Kumar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Explorer&descSize=20&descAlignY=62&fontColor=ffffff" width="100%" />
+</p>
+
+<!-- Animated Cyberpunk Neon Typing Intro & Profile Views -->
 <div align="center">
-
-# Ankit Kumar
-
-**Computer Science Undergraduate · Java · AI/NLP · Full-Stack Fundamentals**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ankitkrwrs1-commits&label=Profile%20Views&color=F0B429&style=flat-square)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vcenter=true&width=600&lines=%F0%9F%91%8B+Welcome+to+my+digital+workspace!;%F0%9F%92%A1+Building+modern%2C+scalable+web+apps;%F0%9F%8D%83+Always+learning+new+technologies" alt="Typing SVG" />
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=ankitkrwrs1-commits&color=ff79c6&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-<br>
+<br/>
 
-```bash
-$ whoami
-Ankit Kumar
-2nd-year CSE student @ St. Andrews Institute of Technology and Management
+---
 
-$ cat currently_building
-Firefly Forge — AI/NLP engine flagging serious-injury precursors
-in workplace safety reports (Smart India Hackathon)
-```
+### 👨‍💻 About Me
 
-## About Me
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🚀 <b>Focus:</b> Building high-performance web applications.</li>
+        <li>🌱 <b>Currently Learning:</b> Advanced Backend Architecture & System Design.</li>
+        <li>💡 <b>Passionate About:</b> Clean code, UI/UX, and Open Source.</li>
+        <li>📫 <b>Reach Me:</b> Open for discussions on tech, projects & opportunities!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ankitkrwrs1-commits&theme=dracula&hide_border=true&layout=compact" alt="Coding Stats" />
+    </td>
+  </tr>
+</table>
 
-I'm a second-year Computer Science & Engineering student who likes turning "that sounds useful" into a working repository. Most of my time goes into **Java, Data Structures & Algorithms, SQL, and web fundamentals**, with a growing focus on applying **AI/NLP** to real-world problems.
+---
 
-I learn by building — most of what's below started as *"let me see if I can make this work,"* and turned into something worth pushing to GitHub.
+### 🛠️ Tech Arsenal & Tools
 
-## What I'm Doing Right Now
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp&theme=dark" /></a>
+</p>
 
-- 🔭 Building **Firefly Forge** — an NLP engine that flags Serious Injury & Fatality (SIF) precursors in safety reports
-- 🧠 Solving DSA problems on LeetCode, most days
-- 🗄️ Getting hands-on with SQL/MySQL through small CRUD projects
-- 🎯 Open to **software internships**, DSA collaboration, and open-source contributions
+<p align="center">
+  <b>Frameworks & Libraries</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" /></a>
+</p>
 
-## Featured Projects
+<p align="center">
+  <b>Database & DevOps Tools</b><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,docker,postman&theme=dark" /></a>
+</p>
 
-**[Firefly Forge](https://github.com/ankitkrwrs1-commits/SIH20165)**
-AI/NLP engine built for Smart India Hackathon to detect Serious Injury & Fatality precursors in free-text workplace safety reports — before they become incidents.
-`Python` `NLP` `Risk Classification`
+---
 
-**[ECONEXUS](https://github.com/ankitkrwrs1-commits/ECONEXUS)**
-A console-based Java application with full CRUD operations and MySQL integration, built to get OOP design and database connectivity right from first principles.
-`Java` `MySQL` `OOP`
+### 📌 Featured Projects
 
-**[Spotify Clone](https://github.com/ankitkrwrs1-commits/Spotify-clone)**
-A front-end rebuild of the Spotify player interface, focused on precise layout and JavaScript-driven interactivity.
-`HTML` `CSS` `JavaScript`
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| ⚡ **Project One** | Short 1-line description of what this project does. | `React` `Node.js` `MongoDB` | [View Project](#) |
+| 🌐 **Project Two** | Short 1-line description of what this project does. | `Next.js` `Tailwind` `TS` | [View Project](#) |
 
-More on GitHub → [github.com/ankitkrwrs1-commits](https://github.com/ankitkrwrs1-commits?tab=repositories)
+---
 
-## Tech Stack
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Database & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitkrwrs1-commits&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0B429&text_color=C9D1D9&icon_color=F0B429" alt="Ankit's GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=ankitkrwrs1-commits&hide_border=true&background=0D1117&stroke=0D1117&ring=F0B429&fire=F0B429&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&currStreakLabel=F0B429&currStreakNum=F0B429" alt="Ankit's GitHub streak" />
-
-</div>
-
-## Let's Connect
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-815471384/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ankitkr321/)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitkrwrs1-commits)
-
-*Open to internships, DSA collaboration, and interesting problems worth solving.*
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkrwrs1-commits&theme=dracula&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkrwrs1-commits&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" width="49%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkrwrs1-commits&layout=compact&theme=dracula&hide_border=true" width="60%" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
